@@ -5,4 +5,4 @@ Springboard Machine Learning mini-projects, including:
 * Logistic Regression  
 * Clustering  
 * Naive Bayes  
-* Spark Machine Learning
+* Spark Machine Learning (Spark SQL and PySpark)
